@@ -17,6 +17,7 @@ function add(num1, num2) {
 
 // add(123, 340);
 
+// parameters in details below
 function sum(a, b, c, d, e) {
   console.log("sum:", a, b, c, d, e);
   var sum = a + b + c + d + e;
