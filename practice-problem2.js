@@ -1,5 +1,5 @@
 // practice problem 2
-function make_avg(a, b, c, d) {
+function make_avg(a, b, c) {
   var average = (a + b + c) / 3;
   return average;
 }
